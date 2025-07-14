@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Visit PulseChat on Vercel]([https://your-app-url.vercel.app](https://pulse-chat-app-two.vercel.app/))
+🔗 [https://your-app-url.vercel.app](https://pulse-chat-app-two.vercel.app/]
 
 ## ✨ Features
 
@@ -25,15 +25,13 @@
 | Tailwind CSS + shadcn/ui | Resend API (Contact form) | Resend (Email service) |
 | React Hooks | Vercel Hosting | Stripe (Planned)       |
 
-## 📸 Screenshots
 
-| Forum Page | Contact Page |
-|------------|--------------|
-| ![Forum](./public/screenshots/forum.png) | ![Contact](./public/screenshots/contact.png) |
+
+
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/pulsechat.git
+git clone https://github.com/kundan-kumar07/PulseChatApp.git
 cd pulsechat
 npm install
